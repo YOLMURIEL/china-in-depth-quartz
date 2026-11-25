@@ -1,8 +1,6 @@
 ---
-title: China in Depth 中国视角
+title: CHINA IN DEPTH 中国视角
 ---
-
-# CHINA IN DEPTH 中国视角
 
 **Chinese Language · Translation · Culture · Technology · Innovation**
 
