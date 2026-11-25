@@ -10,13 +10,13 @@ An open knowledge space exploring Chinese language, translation, culture, techno
 
 ## Explore the knowledge areas
 
-- Chinese Language & Contrastive Grammar
-- Political & Diplomatic Translation
-- Literary Translation
-- Medical & Healthcare Translation
-- Translation Technology & AI
-- Legal & Economic Translation
-- Tourism & Cultural Heritage
-- Journalism & Advertising Translation
-- Architecture, Sustainability & Innovation
-- China Research & Perspectives
+- [[Chinese Language & Contrastive Grammar]]
+- [[一带一路 – Belt and Road Initiative|Political & Diplomatic Translation]]
+- [[Literary Translation]]
+- [[Medical & Healthcare Translation]]
+- [[Translation Technology & AI]]
+- [[Legal & Economic Translation]]
+- [[Tourism & Cultural Heritage]]
+- [[Journalism & Advertising Translation]]
+- [[Architecture, Sustainability & Innovation]]
+- [[China Research & Perspectives]]
